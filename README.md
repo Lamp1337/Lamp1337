@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-**My Name is Lamp, I Live in Kalimantan Barat, Indonesia
+**My Name is Lamp, I Live in Kalimantan Barat, Indonesia**
 
 Here are some ideas to get you started:
 
