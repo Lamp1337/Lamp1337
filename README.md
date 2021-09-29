@@ -2,6 +2,7 @@
 
 - 🌱 I Live in Kalimantan Barat, Indonesia
 - 🔭 I'm Currently Learning Ruby, C#, And Javascript
+- ⚡ My Goals : Mastering Python
 
 ***
 
@@ -18,9 +19,3 @@
 
 ## Contact Me
 [![dc](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/885830821704003614/)
-***
-
-## Goals:
-```bash
-> Mastering Python 
-```
