@@ -13,6 +13,8 @@
 <img align="left" alt="Visual Studio 2019" width="30px" src="https://raw.githubusercontent.com/Mempler/Mempler/master/assets//vs2019.svg"/>
 
 <br>
+***
+<br>
 
 ## Contact Me
 [![dc](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/885830821704003614/)
