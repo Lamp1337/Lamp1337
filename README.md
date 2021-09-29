@@ -23,7 +23,7 @@
 [![dc](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/885830821704003614/)
 ***
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lamp1337&show_icons=true&locale=en&layout=compact"%20alt="lamp1337" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lamp1337&show_icons=true&locale=en&layout=compact"%20alt="lamp1337"" /></p>
 
 
 
