@@ -13,7 +13,9 @@
 <img align="left" alt="Visual Studio 2019" width="30px" src="https://raw.githubusercontent.com/Mempler/Mempler/master/assets//vs2019.svg"/>
 
 <br>
+
 ***
+
 <br>
 
 ## Contact Me
