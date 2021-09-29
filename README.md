@@ -14,16 +14,12 @@
 <img align="left" alt="Visual Studio 2019" width="30px" src="https://raw.githubusercontent.com/Mempler/Mempler/master/assets//vs2019.svg"/>
 
 <br>
+***
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lamp1337&show_icons=true&locale=en&layout=compact"%20alt="lamp1337" /></p>
 
 ***
 
 ## Contact Me
 [![dc](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/885830821704003614/)
-***
-<br>
-
-***
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lamp1337&show_icons=true&locale=en&layout=compact%22%20alt=%22lamp1337 /></p>
-
 ***
