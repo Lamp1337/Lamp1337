@@ -13,3 +13,6 @@
 ```bash
 > Mastering Python 
 ```
+***
+<p><img align="left" src=" https://github-readme-stats.vercel.app/api/top-langs?username=lamp1337&show_icons=true&locale=en&layout=compact"%20alt="lamp1337" " /></p>
+***
