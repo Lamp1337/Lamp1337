@@ -14,6 +14,10 @@
 <img align="left" alt="Ruby" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ruby/ruby.png" />
 
 
+<a href="https://github.com/Lamp1337?tab=repositories">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lamp1337&layout=compact&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=1515151" />
+</a>
+<br>
 <br>
 
 ***
