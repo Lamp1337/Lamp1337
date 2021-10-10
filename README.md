@@ -6,7 +6,7 @@
 
 ***
 
-## Favorite Languages & Tools
+## Favorite Languages & IDE
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -19,8 +19,9 @@
 
 ***
 
-## Contact Me
+## Information
 [![dc](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/885830821704003614/)
+[![yt](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCE0bG6Uf2bzkoI-lxb-sQNw)
 
 ### STATS
 ![Lamp GitHub stats]( https://github-readme-stats.vercel.app/api?username=Lamp1337&show_icons=true&theme=radical)
