@@ -1,7 +1,7 @@
 ### Hi There 👋, I'm Lamp
 
 - 🌱 I Live in Kalimantan Barat, Indonesia
-- 🔭 I'm Currently Learning Ruby, C#, And Javascript
+- 🔭 I'm Currently Working on Python & Javascript
 - ⚡ My Goals : Mastering Python
 
 ***
