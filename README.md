@@ -23,6 +23,8 @@
 [![dc](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/885830821704003614/)
 [![yt](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCE0bG6Uf2bzkoI-lxb-sQNw)
 
+***
+
 ### STATS
 ![Lamp GitHub stats]( https://github-readme-stats.vercel.app/api?username=Lamp1337&show_icons=true&theme=radical)
 ![Lamp Stats]( https://github-readme-streak-stats.herokuapp.com/?user=Lamp1337)
