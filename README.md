@@ -28,4 +28,4 @@
 ### STATS
 ![Lamp GitHub stats]( https://github-readme-stats.vercel.app/api?username=Lamp1337&show_icons=true&theme=radical)
 ![Lamp Stats]( https://github-readme-streak-stats.herokuapp.com/?user=Lamp1337)
-(![Lamp's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical))
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lamp1337&layout=compact)](https://github.com/Lamp1337)
